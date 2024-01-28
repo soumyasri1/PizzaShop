@@ -1,6 +1,6 @@
 # Pizza Shop Application
 This application simulates the behavior of a pizza restaurant, allowing users to place orders, track the progress of their orders, and manage them through various stages until they are ready for pickup.
-# hostng link (sandbox)- https://qy86cc.csb.app/
+# hostng link (codesandbox)- https://qy86cc.csb.app/
 # hosting link- https://main--voluble-tulumba-667f8a.netlify.app/
 # Requirements
 Node.js
