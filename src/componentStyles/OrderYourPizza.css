@@ -1,0 +1,172 @@
+/* Order Form section */
+.order-form-section {
+  width: 100%;
+  padding: 10px;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+  margin-left: -10px;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.order-form-section h2 {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #dc8000; 
+}
+
+.order-form-section form {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.order-form-section label {
+  margin-bottom: 10px;
+  color: #333333;
+  font-size:20px;
+}
+
+.order-form-section select,
+.order-form-section button {
+  padding: 12px;
+  margin-bottom: 15px;
+  border: 1px solid #e5e5e5;
+  margin-right: 70px;
+  border-radius: 6px;
+  font-size: 16px;
+  background-color: #ffffff;
+  color: #333333;
+  cursor: pointer;
+}
+
+.order-form-section button {
+  background-color: #ec9c2b;
+  color: #ffffff;
+  cursor: pointer;
+  font-size:15px;
+  padding:1px 35px;
+  
+ margin-top:-10px;
+}
+
+.order-form-section button:hover {
+  background-color: #ffca43; 
+}
+
+/* Pizza Stages Section */
+.stage-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  width: 100%;
+}
+
+.stage-col {
+  flex: 1;
+  padding: 20px;
+  background-color: #f8f8f8;
+ 
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.stage-col h3 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #f68f11; 
+}
+
+.stage-card {
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+.stage-card:hover{
+  cursor: pointer;
+  transform:translateY(-6px) ; 
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); 
+
+}
+
+.picked {
+  background-color: #1ced23 !important; 
+}
+
+.red-card {
+  background-color: #f50a22 !important; 
+}
+
+.stage-card button {
+  padding: 10px 20px;
+  background-color: #e38118;
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out;
+}
+
+.stage-card button:hover {
+  background-color: #f5952e; 
+  cursor: pointer;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); 
+}
+
+/* Main Section */
+.main-section {
+  color:#b15d08;
+  margin-top: 40px;
+  width: 100%;
+  background-color: #ffffff;
+  padding: 20px;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+  margin-bottom: -10px;
+}
+
+.main-section table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.main-section th,
+.main-section td {
+  border: 1px solid #e5e5e5;
+  padding: 12px;
+}
+
+.main-section th {
+  background-color: #f8f8f8;
+  color: #333333;
+  font-weight: bold;
+  text-align: center;
+}
+
+.main-section td {
+  text-align: center;
+}
+
+.main-section button {
+  background-color: #e31837; 
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.main-section button:hover {
+  background-color: #b4001a; 
+}
+#message{
+background: linear-gradient(to right, #72320a, #8e3c14,#6d3112);
+text-align: center;
+color:#fcf9f6;
+font-size:1.5rem;
+}

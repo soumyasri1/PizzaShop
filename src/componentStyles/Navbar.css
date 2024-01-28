@@ -1,0 +1,77 @@
+/* Navbar.css */
+
+.navbar {
+    background: linear-gradient(to bottom, #ed803d, #f0a337); /* Orange background */
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top:-10px;
+    margin-left:-10px;
+    margin-right:-10px;
+    
+  }
+  .logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 50px; 
+    height: 50px; 
+    margin-right: 10px;
+    border-radius: 50%; 
+}
+
+.logo a {
+    text-decoration: none;
+    color: #ffffff; 
+    font-size: 28px; 
+    font-weight:400; 
+    font-family: "Lucida Handwriting", cursive;
+}
+
+  
+  .nav-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-links li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  .nav-links li:last-child {
+    margin-right: 0;
+  }
+  
+  .nav-links li a {
+    color: #fff; /* White text */
+    text-decoration: none;
+    font-weight: bold;
+    font-size:1.2rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-links li a:hover {
+    color: #f2ff65; /* Light gray on hover */
+  }
+  .nav-links button {
+    background-color: #fff048; 
+    color: #de6f25; 
+    border: none; 
+    padding:5px 5px; 
+    font-size:1rem;
+    cursor: pointer; 
+    border-radius: 4px; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: background-color 0.3s ease; 
+  }
+  
+  
+  .nav-links button:hover {
+    background-color: #faf210; 
+  }

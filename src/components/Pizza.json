@@ -1,0 +1,149 @@
+[
+    {
+      "id": 1,
+      "name": "Margherita",
+      "image": "https://galbanicheese.com/wp-content/uploads/2019/09/Margherita-Pizza-72DPI-e1534358128224-800x504.jpg",
+      "price": 8.99,
+      "rating": 4.5,
+      "ingredients": ["Tomato Sauce", "Mozzarella Cheese", "Basil", "Olive Oil"]
+    },
+    {
+      "id": 2,
+      "name": "Pepperoni",
+      "image": "https://www.thecountrycook.net/wp-content/uploads/2022/05/thumbnail-Smoked-Pepperoni-Pizza-scaled.jpg",
+      "price": 10.99,
+      "rating": 4.8,
+      "ingredients": ["Tomato Sauce", "Pepperoni", "Mozzarella Cheese"]
+    },
+    {
+      "id": 3,
+      "name": "Vegetarian",
+      "image": "https://nomoneynotime.com.au/imager/uploads/recipes/12569/shutterstock_2042520416-1_374635aacd4cafccef5bb0653ee5dedb.webp",
+      "price": 9.99,
+      "rating": 4.3,
+      "ingredients": ["Tomato Sauce", "Mushrooms", "Bell Peppers", "Onions", "Olives", "Mozzarella Cheese"]
+    },
+    {
+      "id": 4,
+      "name": "Hawaiian",
+      "image": "https://recipes.net/wp-content/uploads/2020/03/dominos-copycat-hawaiian-pizza-recipe.jpg ",
+      "price": 11.99,
+      "rating": 4.2,
+      "ingredients": ["Tomato Sauce", "Ham", "Pineapple", "Mozzarella Cheese"]
+    },
+    {
+      "id": 5,
+      "name": "BBQ Chicken",
+      "image": "https://www.thecandidcooks.com/wp-content/uploads/2023/04/bbq-chicken-pizza-feature.jpg ",
+      "price": 12.99,
+      "rating": 4.6,
+      "ingredients": ["BBQ Sauce", "Grilled Chicken", "Red Onions", "Mozzarella Cheese"]
+    },
+    {
+      "id": 6,
+      "name": "Meat Lovers",
+      "image": "https://www.thespruceeats.com/thmb/xuxwh4RIGcZMgaJE8u3SueM0SoA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/aqIMG_4568fhor-0b89dc5c8c494ee9828ed29805791c5a.jpg ",
+      "price": 13.99,
+      "rating": 4.7,
+      "ingredients": ["Tomato Sauce", "Pepperoni", "Sausage", "Bacon", "Ham", "Mozzarella Cheese"]
+    },
+    {
+      "id": 7,
+      "name": "Supreme",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT25PlCZtdNbRjZ1EbwUq2k7PcMSiBgBuGeZL4o91LnEr0VrWEXu5Hlek_coqQioYp0Ylk&usqp=CAU",
+      "price": 12.49,
+      "rating": 4.4,
+      "ingredients": ["Tomato Sauce", "Pepperoni", "Sausage", "Mushrooms", "Onions", "Bell Peppers", "Black Olives", "Mozzarella Cheese"]
+    },
+    
+    {
+      "id": 9,
+      "name": "Veggie Lover's",
+      "image": "https://live.staticflickr.com/3216/2985576916_54bdba2a9c_b.jpg ",
+      "price": 10.99,
+      "rating": 4.3,
+      "ingredients": ["Tomato Sauce", "Mushrooms", "Onions", "Bell Peppers", "Black Olives", "Fresh Tomatoes", "Spinach", "Mozzarella Cheese"]
+    },
+    {
+      "id": 10,
+      "name": "White Pizza",
+      "image": "https://www.seriouseats.com/thmb/00m_awt5yUoM10fLO13s4Y5AZfI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230518-SEA-WhiteNYPizza-Greg-Dupree-hero-fdb6aacb4e2b46ef8b30f7cb187ea4c7.jpg  ",
+      "price": 11.99,
+      "rating": 4.1,
+      "ingredients": ["Olive Oil", "Garlic", "Ricotta Cheese", "Mozzarella Cheese", "Fresh Basil"]
+    },
+    {
+      "id": 11,
+      "name": "Mushroom Lovers",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvvusLbmdttcXTBgThqkTVN-O4JGzVpkJ0dluvr2MEi82D-EmgiRZ523-8q0GNY5OK1M&usqp=CAU ",
+      "price": 10.49,
+      "rating": 4.2,
+      "ingredients": ["Creamy Alfredo Sauce", "Mushrooms", "Portobello Mushrooms", "Parmesan Cheese", "Mozzarella Cheese"]
+    },
+    {
+      "id": 12,
+      "name": "Spinach & Feta",
+      "image": "https://t4.ftcdn.net/jpg/04/13/50/77/360_F_413507763_wCEarSaND2cwX9Q1AciTqFKE79BjIFx4.jpg ",
+      "price": 9.99,
+      "rating": 4.0,
+      "ingredients": ["Garlic Butter", "Spinach", "Feta Cheese", "Mozzarella Cheese", "Red Onions", "Black Olives"]
+    },
+    {
+      "id": 13,
+      "name": "Pesto Chicken",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbl7zCSYjeC17kiPW0qYm8Xbnx41IiYVomzA&usqp=CAU  ",
+      "price": 12.99,
+      "rating": 4.6,
+      "ingredients": ["Pesto Sauce", "Grilled Chicken", "Tomatoes", "Red Onions", "Mozzarella Cheese", "Balsamic Drizzle"]
+    },
+    {
+      "id": 14,
+      "name": "Four Cheese",
+      "image": "https://kitchenatics.com/wp-content/uploads/2020/09/Cheese-pizza-1.jpg  ",
+      "price": 11.49,
+      "rating": 4.4,
+      "ingredients": ["Alfredo Sauce", "Mozzarella Cheese", "Parmesan Cheese", "Ricotta Cheese", "Romano Cheese"]
+    },
+    {
+      "id": 15,
+      "name": "Barbecue Bacon",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzz7ybmdO_5b1RZx5pve8V67jpguznDWkBSA&usqp=CAU ",
+      "price": 12.49,
+      "rating": 4.3,
+      "ingredients": ["BBQ Sauce", "Grilled Chicken", "Bacon", "Red Onions", "Mozzarella Cheese"]
+    },
+    {
+      "id": 16,
+      "name": "Sausage & Mushroom",
+      "image": "https://res.cloudinary.com/general-mills/image/upload/q_auto,f_auto/readyplansave/wp-content/uploads/2019/04/spwrps-72-mushroom.jpg  ",
+      "price": 10.99,
+      "rating": 4.5,
+      "ingredients": ["Tomato Sauce", "Sausage", "Mushrooms", "Mozzarella Cheese", "Parmesan Cheese"]
+    },
+    {
+      "id": 17,
+      "name": "Chicken Alfredo",
+      "image": "https://tastesbetterfromscratch.com/wp-content/uploads/2020/04/Chicken-Alfredo-Pizza-8.jpg ",
+      "price": 11.99,
+      "rating": 4.2,
+      "ingredients": ["Creamy Alfredo Sauce", "Grilled Chicken", "Parmesan Cheese", "Mozzarella Cheese", "Fresh Parsley"]
+    },
+    
+    {
+      "id": 19,
+      "name": "Margarita",
+      "image": "https://images.ctfassets.net/nw5k25xfqsik/64VwvKFqxMWQORE10Tn8pY/200c0538099dc4d1cf62fd07ce59c2af/20220211142754-margherita-9920.jpg  ",
+      "price": 9.49,
+      "rating": 4.1,
+      "ingredients": ["Tomato Sauce", "Fresh Mozzarella", "Fresh Basil", "Olive Oil"]
+    },
+    {
+      "id": 20,
+      "name": "BBQ Bacon",
+      "image": "https://bakerbynature.com/wp-content/uploads/2015/06/IMG_3553-2.jpg  ",
+      "price": 12.99,
+      "rating": 4.7,
+      "ingredients": ["BBQ Sauce", "Bacon", "Grilled Chicken", "Red Onions", "Mozzarella Cheese"]
+    }
+]
+  
